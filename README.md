@@ -54,7 +54,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see the site live.
 
 ## 🤝 Contributing
 
-We welcome contributions of all kinds! Please read our [Contributing Guide](./CONTRIBUTING.md) to get started.
+We welcome contributions of all kinds! Please read our [Contributing Guide](./CONTRIBUTION.md) to get started.
 
 ## 📜 Code of Conduct
 
