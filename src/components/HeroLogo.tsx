@@ -317,7 +317,7 @@ export default function HeroLogo() {
           COSC
         </h1>
         <p className="hero-subtitle mt-4 text-zinc-500 dark:text-zinc-400 font-medium tracking-[0.2em] uppercase text-xs sm:text-sm">
-          Computational Open Source Community
+          Canara Open Source Community
         </p>
       </div>
     </div>
